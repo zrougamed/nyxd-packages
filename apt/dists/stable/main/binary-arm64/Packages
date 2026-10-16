@@ -1,0 +1,60 @@
+Package: nyxd
+Architecture: arm64
+Version: 0.9.3
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 15942
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_0.9.3_arm64.deb
+Size: 6757134
+MD5sum: 954efa7f885f831ca163ec3cd994f3f0
+SHA1: a16b806e9a6cddeca480aa88d7b7affe2abd0beb
+SHA256: 22fc563425d698a53b5c7aa144ae77fc939b843171920d328bd7bb635c8dc265
+SHA512: 330eb532d4b1f8aa93d6b407b3954fb71b28277445cd39f0833227eb08fbb88b400a94e387f46681cdb2f22093b07af1840ade15a69768baf7aba08adf62cbb2
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 0.9.4
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16529
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_0.9.4_arm64.deb
+Size: 6991938
+MD5sum: 9ca7afdb9be4b74cba84fa1dca0e88ca
+SHA1: 72de65dd100690844dea55324c4fad7588ef76d5
+SHA256: 91038e351528eb0efd7af502b79cd267c3663e7d21978b5c1a7414be07f73531
+SHA512: e4e2da74a1a2e5e69e465648509254dab097bb1683dea17911f519991446a2dc40321836f5cb14e7f5f92b073dede497957645cc68558033e8a3f682ad915c72
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16529
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.0.0_arm64.deb
+Size: 7002142
+MD5sum: 5f364161ea1b82bf6c3dfe57c1b17690
+SHA1: d375f756ebcde2bbfc40eadb88be4813080b3bcf
+SHA256: 580c1cba95bf8d1388f7cf53c94504a37363c2269d9e7e565cb5846a34123008
+SHA512: 76467c433f3db382262a3735320871fdcc61968c10ba06fc367450fa0d1cfb45d4536b8170604179a6f67a1edcbd425c9140a2fde5d9699d52264087e5be3d10
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
