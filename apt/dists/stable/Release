@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 22 Oct 2026 09:35:03 +0000
+Label: nyxd
+Origin: nyxd
+Suite: stable
+MD5Sum:
+ 44e49fc8570896a55a490a5796224f5d              138 Release
+ 33d702b431777f846b7dfe2f85ffb73a             4020 main/binary-amd64/Packages
+ 1be81ce76556d61e193d4390fac2e4b1             1344 main/binary-amd64/Packages.gz
+ 6b893a061edd69f617a804d64300bc0a             4020 main/binary-arm64/Packages
+ 4d2c51bacb6553ced160fefe14116de4             1336 main/binary-arm64/Packages.gz
+SHA1:
+ 7f182aaba333b3054d425bb4ee1ca6306d4d8ab3              138 Release
+ 29001f62574ccb812d89f33f6345affd887e4f0f             4020 main/binary-amd64/Packages
+ f4eca64e29d766e05ae3237e778bc2e5300b51f0             1344 main/binary-amd64/Packages.gz
+ 3dba96c15bc537b85e7588b6e7f9b5ad331fe41f             4020 main/binary-arm64/Packages
+ 796c302a2ecf107f051bb9e2c653de3c2cbe6d32             1336 main/binary-arm64/Packages.gz
+SHA256:
+ 971708b5e0d74b4211e426b7bebe729f6049a3fbf6b249ecc01730c995059ffa              138 Release
+ 18208af29728b4d4cb8d12232418327e4ad761b01a4bb0d66139ebd3d443e48b             4020 main/binary-amd64/Packages
+ f355c5aceedc87337bf658e17683fd6b387efb46a7ea37c061373f148d4b0f26             1344 main/binary-amd64/Packages.gz
+ 847fd3fcfbc348c4f7c9fe03b404f8f02071c5db389abfaa0468ff9d1c0da6c7             4020 main/binary-arm64/Packages
+ 0b02105e75b6b5decc4a82651d7ba81df6f5fe2e12b01cc24a3b576c2ccdbef5             1336 main/binary-arm64/Packages.gz
+SHA512:
+ 9aaa9fa391b4b8a05a8fdba54099fdca509d7d9e2894164c3caeb3ea3be1b91846759172d4a4c9199c5108b9865452bc1cc7bc2238b4361f5b021ac4919a51af              138 Release
+ b74259a5d7775e5035d55045bd41689d4571dea8fc9d86032eb46712470684e8a9af03799fe848e2f094eb6b1e99e546d09c6b203e1ae9ca9f4f57fb00ac1841             4020 main/binary-amd64/Packages
+ 1b08329cc286fce8722920880932ebef86e7f46692b1c6567076ad97d0879d28c9fd5299ba2a2f30e1583110a2720f9d5fb4976a15802d0d71d0f52888e639e3             1344 main/binary-amd64/Packages.gz
+ 7d4cf393a49b070fb3d1c8120b2debdd61f8d9af049996a9c0edb388fe22501d364c5c618f82485ec9689b1a29e45835808fe32e7cfa161e2c47d135bc250f59             4020 main/binary-arm64/Packages
+ 341e5ad0f683e8fa579b53501eccb1cb74fabd763b0ac1d2db6b2b6028ca65c284f6a9fc40512fec5fb401b75c69f7d7c67423ee07b068c75284c23b7845e5cb             1336 main/binary-arm64/Packages.gz
