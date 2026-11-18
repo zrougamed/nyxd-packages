@@ -1,0 +1,100 @@
+Package: nyxd
+Architecture: arm64
+Version: 1.1.5
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16657
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.1.5_arm64.deb
+Size: 7048430
+MD5sum: 6b49205ca82204f659208cee106f44ed
+SHA1: a2a4fecf200b19ff228dd244000465f5ada45b63
+SHA256: aea283c08858f72a1d904f7c4d2cc153450a2987d6ac8cc6409468d0f38e59cc
+SHA512: 6b4fb9f7efc98a6f3d0699bd82dfa593b84d6d89dc8de31072806a0b1e63785ee7edc4cabae342254ca7d1d0c39a9716848d94dc5fa3038489a715ff216d8687
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 1.1.6
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16657
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.1.6_arm64.deb
+Size: 7050962
+MD5sum: 90d7b7243776fe52720de180bc0d9e5c
+SHA1: 8208676e688d1799e9381b89c67bf3ec7e8d5e70
+SHA256: d17d961e1148eaa352e0e7656f3e3112f061d7fef27e648fb182908da8033e4e
+SHA512: ceb876040b90c03e89a280f73e87cb82799ffddea4e39daf75bbddb8ddf2cd024e43a8f392ce72cc3ef637fb94e259d8d97e1a3d92d5933aab47d2c2fe400eb8
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 1.1.7
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16721
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.1.7_arm64.deb
+Size: 7082148
+MD5sum: d7728715b2f1c3299c60ffaca54ea01a
+SHA1: 22712541cf419e11303a8dc4516a51e4f365324b
+SHA256: a9aac2a862d09c6723881c8ed6c70898d9ede8f66e4bebc4d7aa0ff242991255
+SHA512: 58783003eb83759bcacd15f02e457e5beada6fcc81622e593a1af02b6e2d43271bc7f210a84771454fb4d8871cb37c67b0842b2b08c08fe8fed7dbad3eb1ca2f
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 1.2.0
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 16785
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.2.0_arm64.deb
+Size: 7105980
+MD5sum: 89a7093f8cfbed9dd9f19207006292e5
+SHA1: 4cdebf348a6b8994c1cedae4095cdd83a151912a
+SHA256: 211757e0243ee9f50b3036903df68cd2fc37ceefd673b678ec219a5108b4d6e8
+SHA512: 11ead01c66758a404cb89307c84a3da3fdefb33b00fd22c66bde3822bf3d6a6a983e7910ca9c98cbb3af71d53be237348ce2e8ed02011aee065730cca789edd4
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
+Package: nyxd
+Architecture: arm64
+Version: 1.3.0
+Priority: optional
+Section: admin
+Maintainer: Mohamed Zrouga <med@zrouga.email>
+Installed-Size: 17361
+Depends: crun
+Recommends: uidmap
+Filename: pool/main/n/nyxd/nyxd_1.3.0_arm64.deb
+Size: 7335934
+MD5sum: 521894b23d4d0f79f8597ab8751be21c
+SHA1: ac8b2f59855828cba8fb138ec945b764670468b9
+SHA256: 9dbd581d7b0519233412002d63e41955de822d04408f032fd0a6b63e4ebc306c
+SHA512: 3caf6d7bf5a09435b1a4a438bf0a8fbe5d0640561bdb20dc4e901a038be7b0bd5fa96a8e881d33b6767d1c2d4f5cee8949fd495b0205ece7fb7c33db8d26e588
+Homepage: https://github.com/zrougamed/nyxd
+Description: Minimal OCI container orchestrator: crun plus a small control plane.
+ Runs containers and compose projects, builds images from Dockerfiles,
+ as root or rootless. No Docker, Podman or containerd needed.
+
